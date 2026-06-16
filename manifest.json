@@ -2,14 +2,15 @@
   "name": "Monatsflow",
   "short_name": "Monatsflow",
   "description": "Persönlicher Monatsbudget Tracker",
-  "start_url": "/",
+  "start_url": "/Cashflow/",
+  "scope": "/Cashflow/",
   "display": "standalone",
   "background_color": "#0f0f13",
   "theme_color": "#0f0f13",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "icon-192-1.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
